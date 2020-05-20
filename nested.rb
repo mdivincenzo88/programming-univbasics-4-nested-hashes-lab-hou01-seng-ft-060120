@@ -87,7 +87,11 @@ def adding_matz
       }
     }
     
-    programmer_hash[:yukihiro_matsumoto] = { known_for : 
+    programmer_hash[:yukihiro_matsumoto] = { known_for : "Ruby" }, { languages :"LISP", "C"}
+    epic_tragedy[:additional_characters] = [
+  { name: "Prince Escalus" },
+  { name: "Apothecary" }
+]
 
 end
 
